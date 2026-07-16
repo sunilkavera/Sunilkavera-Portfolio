@@ -1,1 +1,43 @@
 # Sunilkavera-Portfolio
+# 💼 Personal Portfolio Website
+
+A modern and responsive portfolio website showcasing my skills, projects, and resume as a Data Analyst and Software Engineer.
+
+## 🚀 Features
+
+- Responsive Design
+- About Me Section
+- Skills Showcase
+- Projects Portfolio
+- Resume Download
+- GitHub & LinkedIn Links
+- Contact Section
+
+## 🛠️ Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript
+
+## 📊 Featured Projects
+
+### Titanic Data Analysis
+Analyzed the Titanic dataset using Python, Pandas, NumPy, and Matplotlib to uncover survival patterns through data cleaning, exploratory data analysis (EDA), and data visualization.
+
+### Power BI Dashboard
+Created interactive dashboards to visualize business data and generate actionable insights using Power BI.
+
+## 📷 Preview
+
+![Portfolio Screenshot](images/portfolio.png)
+
+## 🔗 Live Demo
+
+Add your GitHub Pages link here after deployment.
+
+## 👨‍💻 Author
+
+**Sunil Kavera**
+
+- GitHub: https://github.com/yourusername
+- LinkedIn: https://linkedin.com/in/yourlinkedin
